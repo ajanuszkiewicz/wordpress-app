@@ -1,0 +1,4 @@
+.block-div {
+    filter: grayscale(100%);
+    pointer-events: none;
+}
